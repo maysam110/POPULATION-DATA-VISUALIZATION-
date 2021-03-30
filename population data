@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Data Visualization Workshop</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
+<h1>Visulaized population data</h1>
+    <div class="flourish-embed flourish-hierarchy" data-src="visualisation/5719364"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+  </body>
+</html>
